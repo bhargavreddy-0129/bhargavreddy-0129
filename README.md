@@ -53,7 +53,7 @@ exploring:
 
 ### TechnoNexis — Full-Stack Intern
 
-**June 2026 – AUGUST 2026**
+**June 2026 – Aug 2026**
 
 - Architecting a multi-tenant ERP backend with Inventory and Finance modules.
 - Implementing Role-Based Access Control (RBAC) and RESTful APIs.

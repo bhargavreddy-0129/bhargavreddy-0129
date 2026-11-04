@@ -1,4 +1,4 @@
-#                                                                         ✦ K U P P I L E  B H A R G A V A  R E D D Y ✦
+#                                                                         ✦ K. B H A R G A V A  R E D D Y ✦
 
 <div align="center">
 

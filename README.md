@@ -1,8 +1,10 @@
-#       ✦ K U P P I L E  B H A R G A V A  R E D D Y ✦
+#                                                                         ✦ K U P P I L E  B H A R G A V A  R E D D Y ✦
 
 <div align="center">
 
 ### Python Developer | Automation | APIs | Backend Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Python+%7C+Django+%7C+Flask;Exploring+Generative+AI+%26+LLMs;Automating+Real-World+Workflows;Designing+Secure+REST+APIs" />
 
 </div>
 
@@ -51,7 +53,7 @@ exploring:
 
 ### TechnoNexis — Full-Stack Intern
 
-**June 2026 – AUG 2026**
+**June 2026 – AUGUST 2026**
 
 - Architecting a multi-tenant ERP backend with Inventory and Finance modules.
 - Implementing Role-Based Access Control (RBAC) and RESTful APIs.

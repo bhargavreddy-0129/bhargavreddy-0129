@@ -208,20 +208,6 @@ An AI-powered healthcare application that predicts diseases using patient sympto
 
 ---
 
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhargavreddy-0129&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavreddy-0129&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=bhargavreddy-0129&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🤝 LET'S BUILD TOGETHER
 
 <div align="center">

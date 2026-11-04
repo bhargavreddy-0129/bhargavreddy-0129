@@ -26,29 +26,6 @@ Final-year B.Tech Computer Science student and aspiring Full-Stack Developer wit
 
 ---
 
-## 🗂️ CURRENT STATUS
-
-```text
-working:
-  - Multi-Tenant ERP Backend
-  - Inventory Management Module
-  - Finance Management Module
-  - REST API Development
-
-building:
-  - AI-Powered Linux Automation Agent
-  - Orbit Developer Collaboration Platform
-  - MediX Smart Healthcare Application
-
-exploring:
-  - Generative AI & LLM Integration
-  - Backend Architecture
-  - Database Optimization
-  - AWS Cloud Services
-```
-
----
-
 ## 💼 EXPERIENCE
 
 ### TechnoNexis — Full-Stack Intern
